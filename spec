@@ -4,3 +4,4 @@ basic spec
  call
  message
  
+new add
